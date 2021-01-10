@@ -15,6 +15,14 @@
 ```
 
 
+```bash
+#!/bin/bash
+testfunction(){
+   echo "My first function"
+}
+testfunction
+```
+
 
 2021-01-10 07:37:16 Sunday
 
