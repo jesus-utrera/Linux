@@ -1,5 +1,7 @@
 # Proyecto 1
-**Comando ipconfig**
+
+2021-01-10 07:37:16 Sunday
+### 1. Ejemplo html
 
 ```html
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
@@ -13,7 +15,7 @@
    </BODY>
 </HTML>
 ```
-
+### 2. Ejemplo bash
 
 ```bash
 #!/bin/bash
@@ -22,8 +24,19 @@ testfunction(){
 }
 testfunction
 ```
+### 3. Ejemplo python
+```python
+### Introducir un numero por teclado y decir si es par o impar:
 
+num = int(input('Introduzca un numero: '))
+ifnum % 2 == 0:
+print('Par')
+else:
+print('Impar')
+```
 
-2021-01-10 07:37:16 Sunday
+### 4. Ejemplo imagen
 
-[![holaaa](hola "holaaa")](C:\Users\mantenimentcivicat\Desktop\posibles-wallpapers\gris1 "holaaa")
+Hay que arreglarlo
+
+[![imagen](imagen "imagen")](https://www.muycomputer.com/wp-content/uploads/2020/05/cuota-de-mercado-de-Linux-1000x600.jpg "imagen")
