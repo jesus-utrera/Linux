@@ -1,16 +1,15 @@
 # Proyecto 1
 **Comando ipconfig**
-```bash
-C:\Users\mantenimentcivicat>ipconfig
+    
+    Configuración IP de Windows
+    
+    
+    Adaptador de LAN inalámbrica Conexión de área local* 1:
+    
+       Estado de los medios. . . . . . . . . . . : medios desconectados
+       Sufijo DNS específico para la conexión. . :
+    
 
-Configuración IP de Windows
-
-
-Adaptador de LAN inalámbrica Conexión de área local* 1:
-
-   Estado de los medios. . . . . . . . . . . : medios desconectados
-   Sufijo DNS específico para la conexión. . :
-```
 
 
 
