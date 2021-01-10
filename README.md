@@ -19,4 +19,4 @@ Adaptador de LAN inalámbrica Conexión de área local* 1:
 
 2021-01-10 07:37:16 Sunday
 
-[![holaaa](hola "holaaa")](C:\Users\mantenimentcivicat\Desktop\posibles-wallpapers\gris1 "holaaa")
+[![foto1](foto "foto1")](https://cdn.icon-icons.com/icons2/2108/PNG/512/linux_icon_130887.png "foto1")
