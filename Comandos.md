@@ -1,18 +1,18 @@
 # Proyecto 1
 **Comando ipconfig**
-    
-```bash
-C:\Users\mantenimentcivicat>ipconfig
 
-Configuración IP de Windows
-
-
-Adaptador de LAN inalámbrica Conexión de área local* 1:
-
-   Estado de los medios. . . . . . . . . . . : medios desconectados
-   Sufijo DNS específico para la conexión. .
+```html
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+   <HEAD>
+      <TITLE>Mi primer documento HTML</TITLE>
+   </HEAD>
+   <BODY>
+      <P>¡Hola mundo!
+   </BODY>
+</HTML>
 ```
-
 
 
 
