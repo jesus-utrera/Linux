@@ -40,6 +40,6 @@ print('Impar')
 
 ### 4. Ejemplo imagen
 
-Hay que arreglarlo
+Tal vez cuando lo enlace con mi pc pueda coger la imagen en local
 
 [![imagen](imagen "imagen")](https://www.muycomputer.com/wp-content/uploads/2020/05/cuota-de-mercado-de-Linux-1000x600.jpg "imagen")
