@@ -42,5 +42,5 @@ Aqui tenemos web para acceder: [Teams](https://www.microsoft.com/es-ww/microsoft
 ###  12.  Una pizarra para dibujar en grupo
 ![](https://i.postimg.cc/K8vQtbQC/11.png)
 
-#####  12.  También opción de compartir archivos
+### 13.  También opción de compartir archivos
 ![](https://i.postimg.cc/q7NLZGPL/12.png)
