@@ -8,7 +8,7 @@ Aqui tenemos web para acceder: [Slack.com](https://slack.com/signin#/signin "sla
 #####  1.   Nos logueamos en la web con nuestra cuenta gmail
 ![](https://i.postimg.cc/RVKJ8mHD/1.png)
 
-#####  2. Nos preguntará si queremos unirnos a un grupo o crear uno nuevo. En mi caso he creado SistemCVC
+#####  2. Nos preguntará si queremos unirsos an espacio de trabajo/proyecto o crear uno nuevo. En mi caso he creado SistemCVC
 
 ![](https://i.postimg.cc/MHHZShtN/2.png)
 
