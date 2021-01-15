@@ -9,6 +9,10 @@ Aqui tenemos el editor para documentar: [Enlace Pandao Editor](https://pandao.gi
 
 ---------------------------------------------------
 PLANTILLA:
+
+# SSH - Configuración básica
+introduccion
+
 Aqui tenemos web para acceder: [Office 365 E3](https://www.microsoft.com/es-es/microsoft-365/enterprise/office-365-e3?activetab=pivot%3aoverviewtab "365")
 
 ###  1.   En el enlace de arriba entramos en la web empresarial de 365 con modo prueba gratis
