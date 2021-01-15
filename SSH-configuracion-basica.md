@@ -1,3 +1,9 @@
+**SSH - Configuración básica**
+
+El protocolo telnet era inseguro, podian ver nuestros comandos
+crearon nuevo protocolo SSH más seguro que usa clave para enviar y recibir datos.
+
+
 ###  1.  Generalmente ya viene instalado. Sino meter el comando:
 `apt-get install openssh-server`
 
@@ -14,3 +20,4 @@ En windows usamos putty para conectar a un servidor.
 
     ssh usuario : ip servidor
     ssh root@94.231.92.33
+
