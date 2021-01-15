@@ -7,6 +7,34 @@ Aqui tenemos el editor para documentar: [Enlace Pandao Editor](https://pandao.gi
 
 ![](https://camo.githubusercontent.com/1d61f3ec442dd71f22daba8ea1a0007eb10dd2b5ceb2aeed51d7b8adb587a190/687474703a2f2f7777312e73696e61696d672e636e2f6c617267652f303037316f756570677931673075333837336966796a333075793066686e31342e6a7067)
 
+---------------------------------------------------
+PLANTILLA:
+Aqui tenemos web para acceder: [Office 365 E3](https://www.microsoft.com/es-es/microsoft-365/enterprise/office-365-e3?activetab=pivot%3aoverviewtab "365")
+
+###  1.   En el enlace de arriba entramos en la web empresarial de 365 con modo prueba gratis
+![](https://i.postimg.cc/Bnf3pvwr/1.png)
+
+###  1.  
+![]()
+
+
+###  2.  
+![]()
+
+
+### 3  
+![]()
+
+
+### 4  
+![]()
+
+
+###  5.  
+![]()
+
+-----------------------------------------------------
+
 ### 1. Ejemplo html
 
 ```html
