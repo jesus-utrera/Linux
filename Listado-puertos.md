@@ -4,25 +4,25 @@
 
 ### Principales puertos TCP
 
-**Puerto 21:**  El puerto 21 por norma general se usa para las conexiones a servidores FTP en su canal de control, siempre que no hayamos cambiado el puerto de escucha de nuestro servidor FTP o FTPES.
+**Puerto 21:**  El puerto 21 por norma general se usa para las conexiones a servidores FTP en su canal de control, siempre que no hayamos cambiado el puerto de escucha de nuestro servidor **FTP** o FTPES.
 
-**Puerto 22:** Por normal general este puerto se usa para conexiones seguras SSH y SFTP, siempre que no hayamos cambiado el puerto de escucha de nuestro servidor SSH.
+**Puerto 22:** Por normal general este puerto se usa para conexiones seguras **SSH** y **SFTP**, siempre que no hayamos cambiado el puerto de escucha de nuestro servidor SSH.
 
-**Puerto 23:** Telnet, sirve para establecer conexión remotamente con otro equipo por la línea de comandos y controlarlo. Es un protocolo no seguro ya que la autenticación y todo el tráfico de datos se envía sin cifrar.
+**Puerto 23:** **Telnet**, sirve para establecer conexión remotamente con otro equipo por la línea de comandos y controlarlo. Es un protocolo no seguro ya que la autenticación y todo el tráfico de datos se envía sin cifrar.
 
-**Puerto 25:**  El puerto 25 es usado por el protocolo SMTP para él envió de correos electrónicos, también el mismo protocolo puede usar los puertos 26 y 2525.
+**Puerto 25:**  El puerto 25 es usado por el protocolo **SMTP **para él envió de **correos electrónicos**, también el mismo protocolo puede usar los puertos 26 y 2525.
 
-**Puerto 53:** Es usado por el servicio de DNS, Domain Name System.
+**Puerto 53:** Es usado por el servicio de **DNS**, Domain Name System.
 
-**Puerto 80:** Este puerto es el que se usa para la navegación web de forma no segura HTTP.
+**Puerto 80:** Este puerto es el que se usa para la navegación web de forma no segura **HTTP**.
 
 **Puerto 101:** Este puerto es usado por el servicio Hostname y sirve para identificar el nombre de los equipos.
 
-**Puerto 110:** Este puerto lo usan los gestores de correo electrónico para establecer conexión con el protocolo POP3.
+**Puerto 110:** Este puerto lo usan los gestores de correo electrónico para establecer conexión con el protocolo **POP3**.
 
-**Puerto 143:** El puerto 143 lo usa el protocolo IMAP que es también usado por los gestores de correo electrónico.
+**Puerto 143:** El puerto 143 lo usa el protocolo **IMAP** que es también usado por los gestores de correo electrónico.
 
-**Puerto 443:** Este puerto es también para la navegación web, pero en este caso usa el protocolo HTTPS que es seguro y utiliza el protocolo TLS por debajo.
+**Puerto 443:** Este puerto es también para la navegación web, pero en este caso usa el protocolo **HTTPS** que es seguro y utiliza el protocolo TLS por debajo.
 
 **Puerto 445: **Este puerto es compartido por varios servicios, entre el más importante es el Active Directory.
 
@@ -66,7 +66,9 @@
 
 **Puertos 6881 y 6969:** Son usados por el programa BitTorrent, que sirve para e intercambio de ficheros.
 
-**Puerto 8080:** es el puerto alternativo al puerto 80 TCP para servidores web, normalmente se utiliza este puerto en pruebas.
+**Puerto 8080:** es el puerto **alternativo
+80** al puerto **alternativo
+80** TCP para servidores web, normalmente se utiliza este puerto en pruebas.
 
 **Puertos 51400: **Es el puerto utilizado de manera predeterminada por el programa Transmission para descargar archivos a través de la red BitTorrent.
 
