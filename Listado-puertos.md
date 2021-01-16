@@ -24,17 +24,17 @@
 
 **Puerto 443:** Este puerto es también para la navegación web, pero en este caso usa el protocolo **HTTPS** que es seguro y utiliza el protocolo TLS por debajo.
 
-**Puerto 445: **Este puerto es compartido por varios servicios, entre el más importante es el Active Directory.
+**Puerto 445: ** Este puerto es compartido por varios servicios, entre el más importante es el Active Directory.
 
 **Puerto 587:** Este puerto lo usa el protocolo SMTP SSL y, al igual que el puerto anterior sirve para el envío de correos electrónicos, pero en este caso de forma segura.
 
 **Puerto 591:** Es usado por Filemaker en alternativa al puerto 80 HTTP.
 
-**Puerto 853: **Es utilizado por DNS over TLS.
+**Puerto 853: ** Es utilizado por DNS over TLS.
 
-**Puerto 990: **Si utilizamos FTPS (FTP Implícito) utilizaremos el puerto por defecto 990, aunque se puede cambiar.
+**Puerto 990: ** Si utilizamos FTPS (FTP Implícito) utilizaremos el puerto por defecto 990, aunque se puede cambiar.
 
-**Puerto 993: **El puerto 993 lo usa el protocolo IMAP SSL que es también usado por los gestores de correo electrónico para establecer la conexión de forma segura.
+**Puerto 993: ** El puerto 993 lo usa el protocolo IMAP SSL que es también usado por los gestores de correo electrónico para establecer la conexión de forma segura.
 
 **Puerto 995:** Al igual que el anterior puerto, sirve para que los gestores de correo electrónico establezcan conexión segura con el protocolo POP3 SSL.
 
@@ -48,7 +48,7 @@
 
 **Puerto 2049:** es utilizado por el protocolo NFS para el intercambio de ficheros en red local o en Internet.
 
-**Puertos 2082 y 2083: **es utilizado por el popular CMS cPanel para la gestión de servidores y servicios, dependiendo de si se usa HTTP o HTTPS, se utiliza uno u otro.
+**Puertos 2082 y 2083: ** es utilizado por el popular CMS cPanel para la gestión de servidores y servicios, dependiendo de si se usa HTTP o HTTPS, se utiliza uno u otro.
 
 **Puerto 3074:** Lo usa el servicio online de videojuegos de Microsoft Xbox Live.
 
@@ -58,15 +58,15 @@
 
 **Puerto 4662 TCP y 4672 UDP**: Estos puertos los usa el mítico programa eMule, que es un programa para descargar todo tipo de archivos.
 
-**Puerto 4899: **Este puerto lo usa Radmin, que es un programa para controlar remotamente equipos.
+**Puerto 4899: ** Este puerto lo usa Radmin, que es un programa para controlar remotamente equipos.
 
-**Puerto 5000: **es el puerto de control del popular protocolo UPnP, y que por defecto, siempre deberíamos desactivarlo en el router para no tener ningún problema de seguridad.
+**Puerto 5000: ** es el puerto de control del popular protocolo UPnP, y que por defecto, siempre deberíamos desactivarlo en el router para no tener ningún problema de seguridad.
 
-**Puertos 5400, 5500, 5600, 5700, 5800 y 5900: **Son usados por el programa VNC, que también sirve para controlar equipos remotamente.
+**Puertos 5400, 5500, 5600, 5700, 5800 y 5900: ** Son usados por el programa VNC, que también sirve para controlar equipos remotamente.
 
-**Puertos 6881 y 6969:** Son usados por el programa BitTorrent, que sirve para e intercambio de ficheros.
+**Puertos 6881 y 6969:**  Son usados por el programa BitTorrent, que sirve para e intercambio de ficheros.
 
-**Puerto 8080:** es el puerto **alternativo
+**Puerto 8080:**  es el puerto **alternativo
 80** al puerto **alternativo
 80** TCP para servidores web, normalmente se utiliza este puerto en pruebas.
 
@@ -102,4 +102,5 @@ Y estos serían los puertos más usados e importantes cuando hacen uso del proto
 **Puerto 51871: **es utilizado por el protocolo de VPN Wireguard de manera predeterminada.
 
 Tal y como habéis visto, tenemos una gran cantidad de puertos TCP y UDP que utilizaremos muy a menudo. Estos son los principales puertos que podemos utilizar para los diferentes servicios, no obstante, hay cientos de puertos TCP y UDP más que utilizan diferentes aplicaciones, pero estos son los más importantes y utilizados.
+
 
