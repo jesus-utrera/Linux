@@ -102,3 +102,4 @@ Y estos serían los puertos más usados e importantes cuando hacen uso del proto
 **Puerto 51871: **es utilizado por el protocolo de VPN Wireguard de manera predeterminada.
 
 Tal y como habéis visto, tenemos una gran cantidad de puertos TCP y UDP que utilizaremos muy a menudo. Estos son los principales puertos que podemos utilizar para los diferentes servicios, no obstante, hay cientos de puertos TCP y UDP más que utilizan diferentes aplicaciones, pero estos son los más importantes y utilizados.
+
