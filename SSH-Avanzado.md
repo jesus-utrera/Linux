@@ -7,8 +7,9 @@ crearon nuevo protocolo SSH más seguro que usa clave para enviar y recibir dato
 ***Cada comando repite los anteriores tengo que probar si son necesarios o solo se pone el nuevo***
 
 
-###  1.  Con este comando hacemos que el servidor copie nuestra clave del cliente al fichero authorized_keys directamente, pedirá la clave después de apretar comando.
+###  1.  Con este comando creamos una clave publica y hacemos que el servidor copie nuestra clave del cliente al fichero authorized_keys directamente, pedirá la clave después de apretar comando.
 
+    ssh-keygen
     ssh-copy-id root@209.76.63.14
     
 pondremos la clave
